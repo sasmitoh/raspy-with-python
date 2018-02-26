@@ -1,18 +1,18 @@
 # raspy-with-python
 
-project raspberry with python dasar
+project raspberry with basic python
 
 <p align="center">
 <img src="https://github.com/sasmitoh/raspy-with-python/blob/master/raspberry.png" width="450" height="300" />
 </p>
 <hr/>
 
-## project sederhana
+## SIMPLE PROJECTS
 <ol>
-   <li>Menghidupkan Led</li>
-   <li>Membuat Led Berkedip</li>
-   <li>Membuat Traffic Led</li>
-   <li>Membuat flip-flop</li>
-   <li>Membuat control led menggunakan stetment</li>
+   <li>Turn on Led</li>
+   <li>Blink Led</li>
+   <li>Traffic Led</li>
+   <li>Flip-flop Led</li>
+   <li>Create a led control using a statement</li>
 </ol>
 <hr/>
