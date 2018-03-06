@@ -14,5 +14,6 @@ project raspberry with basic python
    <li>Traffic Led</li>
    <li>Flip-flop Led</li>
    <li>Create a led control using a statement</li>
+   <li>Create a led control using a statement and send email</li>
 </ol>
 <hr/>
